@@ -106,3 +106,4 @@ Každé zadání obsahuje **checklist**. Hotové body si odškrtávej přímo v 
 1. Podívej se do dokumentace: [MDN Web Docs](https://developer.mozilla.org/cs/) nebo [W3Schools](https://www.w3schools.com/)
 2. Zeptej se spolužáka (ať ti **vysvětlí**, ne napíše kód za tebe)
 3. Zeptej se vyučujícího
+ 
